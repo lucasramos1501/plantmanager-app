@@ -1,8 +1,9 @@
-<center>
-    <img src="assets/icon.png" width="250"  />   
-</center>
+<div align="center">
+    <img src="assets/icon.png" width="250" />   
 
 # *Manager your plants easy*
+
+</div>
 
 # 🕹 Description
 An application that allows you to manage your plants without the need to remember when you need to water the plants. 
